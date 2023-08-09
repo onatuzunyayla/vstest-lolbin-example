@@ -1,0 +1,1 @@
+# vstest-lolbin-example
